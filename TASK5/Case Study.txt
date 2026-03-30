@@ -1,0 +1,12 @@
+Case Study
+
+
+Phishing has evolved into a major cybercrime threat in India which has experienced rapid growth due to increased online payment usage and digital platform development. A college student received a WhatsApp message which claimed to represent their bank according to a recent real-life demonstration. The message required them to complete KYC updates at once because their account would be disabled.
+
+The message contained a link which appeared to direct users to the official bank website. The student believed the message to be true, so he clicked on the link and provided his account information, which included his debit card number and one-time password. The bank account experienced several unauthorized transactions within a few minutes.
+
+This type of phishing attack targets students who use online banking and UPI services because they lack complete knowledge about such scams. The attackers create a sense of urgency to trick users into sharing sensitive information quickly.
+
+The attacks lead to three main consequences which include financial loss and personal data theft and mental stress. The process of recovering lost money becomes challenging in most situations.
+
+The case demonstrates how essential digital literacy has become in the present day. Users should avoid clicking on unknown links, they must confirm message authenticity through official sources, and they should avoid disclosing OTP or banking information to anyone.
