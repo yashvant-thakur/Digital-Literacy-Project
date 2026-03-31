@@ -17,8 +17,6 @@ Tasks Included
 - Task 4: Email Etiquette & Social Media Guide
 - Task 5: Cybercrime Awareness Case Study
 
-## Google Form Link
-
 
 ## Tools Used
 - Canva
@@ -28,4 +26,4 @@ Tasks Included
 - HackerRank
 
 ## Author
-[Your Name]
+Yashvant Thakur
